@@ -4,7 +4,7 @@
   "description": "Library Description",
   "homepage": "https://github.com/jason-napolitano/php-exceptions",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "require": {
     "php": ">=7.3"
   },
