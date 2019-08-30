@@ -2,7 +2,7 @@
   "name": "username/library",
   "type": "library",
   "description": "Library Description",
-  "homepage": "https://github.com/jason-napolitano/php-exceptions",
+  "homepage": "https://github.com/username/library",
   "license": "MIT",
   "version": "0.0.1",
   "require": {
