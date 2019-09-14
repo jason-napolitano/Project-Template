@@ -14,6 +14,7 @@ Simply open your project up in your favorite editor/IDE and start coding! Once y
 This repo contains a template for the following directories:
  1. `./src` - The PSR-4 Source for your projects files
  2. `./tests` - The directory for the PHPUnit Unit tests
+   - Also included are some dummy directories and classes that adhere to PSR-4 to help get you started
 
 And a template for the following files:
  1. `./LICENSE` - For your projects license information
