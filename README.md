@@ -12,17 +12,17 @@ Simply open your project up in your favorite editor/IDE and start coding! Once y
 
 ## Contents
 This repo contains a template for the following directories:
- 1. src - The PSR-4 Source for your projects files
- 2. tests - The directory for the PHPUnit Unit tests
+ 1. `./src` - The PSR-4 Source for your projects files
+ 2. `./tests` - The directory for the PHPUnit Unit tests
 
 And a template for the following files:
- 1. LICENSE File - For your projects license information
- 2. .gitignore - For your project to ignore files/directories upon commit
- 3. travis.yml - For Travis-CI integration and scripts
- 4. composer.json - A properly established `composer.json` file for you to fill out
- 5. CONTRIBUTING.MD - A base file for informing contributors on how you like contributions
- 6. README.md - This file. A basic README.MD template file for your README information
- 7. phpunit.xml.dist - A base file to use for PHPUnit >= 8.
+ 1. `./LICENSE` - For your projects license information
+ 2. `./.gitignore` - For your project to ignore files/directories upon commit
+ 3. `./travis.yml` - For Travis-CI integration and scripts
+ 4. `./composer.json` - A properly established `composer.json` file for you to fill out
+ 5. `./CONTRIBUTING.MD` - A base file for informing contributors on how you like contributions
+ 6. `./README.md` - This file. A basic README.MD template file for your README information
+ 7. `./phpunit.xml.dist` - A base file to use for PHPUnit >= 8.
 
 
 ## License
