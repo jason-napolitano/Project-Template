@@ -10,6 +10,8 @@ A simple template for a Github/Packgist repository. Built to use, implement and/
 ## Usage
 Simply open your project up in your favorite editor/IDE and start coding! Once you commit the package to Github and Packagist, this will automatically run your tests that you provide and run the test environment in Travis-CI.
 
+ - Don't forget to modify the included `LICENSE`, `.gitignore`, `composer.json`, `travis.yml` and the `phpunit.xml.dist` files for your projects requirements
+
 ## Contents
 This repo contains a template for the following directories:
  1. `./src` - The PSR-4 Source for your projects files
