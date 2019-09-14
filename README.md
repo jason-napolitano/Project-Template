@@ -8,7 +8,7 @@ A simple template for a Github/Packgist repository. Built to use, implement and/
  - Drag and drop into your directory of choice
 
 ## Usage
-Simply open your project up in your favorite editor/IDE and stat coding! Once you commit the package to Github and Packagist, this will automatically run your tests that you provide and run the test environment in Travis-CI.
+Simply open your project up in your favorite editor/IDE and start coding! Once you commit the package to Github and Packagist, this will automatically run your tests that you provide and run the test environment in Travis-CI.
 
 ## Contents
 This repo contains a template for the following directories:
