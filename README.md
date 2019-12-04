@@ -2,6 +2,8 @@
 
 A simple template for a Github/Packgist repository. Built to use, implement and/or follow: Travis-CI, PSR-4 and PHPUnit.
 
+_THIS REPO IS NOW ARCHIVED SINCE I AM MOVING FROM DEVELOPING IN PHP AND INTO THE JAVASCRIPT WORLD. THANK YOU TO THOSE WHO HELPED WITH THIS FOR ITS SHORT LIFETIME_
+
 [![Build Status](https://travis-ci.com/jason-napolitano/PHP-Exceptions.svg?branch=master)](https://travis-ci.com/jason-napolitano/PHP-Exceptions)
 
 ## Installation
