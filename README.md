@@ -4,6 +4,9 @@ A simple template for a Github/Packgist repository. Built to use, implement and/
 
 [![Build Status](https://travis-ci.com/jason-napolitano/PHP-Exceptions.svg?branch=master)](https://travis-ci.com/jason-napolitano/PHP-Exceptions)
 
+## Packages using this template
+ - [PHP Exceptions](https://github.com/jason-napolitano/PHP-Exceptions)
+
 ## Installation
  - Drag and drop into your directory of choice
 
