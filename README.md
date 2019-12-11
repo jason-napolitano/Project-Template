@@ -8,7 +8,7 @@ A simple template for a Github/Packgist repository. Built to use, implement and/
  - [PHP Exceptions](https://github.com/jason-napolitano/PHP-Exceptions)
 
 ## Installation
- - Drag and drop into your directory of choice
+ - Clone/Download into your directory of choice
 
 ## Usage
 Simply open your project up in your favorite editor/IDE and start coding! Once you commit the package to Github and Packagist, this will automatically run your tests that you provide and run the test environment in Travis-CI.
