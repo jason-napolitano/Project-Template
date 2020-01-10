@@ -1,6 +1,7 @@
 # Project Template
 
-A simple template for a Github/Packgist repository. Built to use, implement and/or follow: Travis-CI, PSR-4 and PHPUnit.
+> A simple template for a Github/Packgist repository. Built to implement and: Travis-CI, PSR-4 and PHPUnit 8!
+___
 
 [![Build Status](https://travis-ci.com/jason-napolitano/PHP-Exceptions.svg?branch=master)](https://travis-ci.com/jason-napolitano/PHP-Exceptions)
 
