@@ -7,6 +7,7 @@ ___
 
 ## Packages using this template
  - [PHP Exceptions](https://github.com/jason-napolitano/PHP-Exceptions)
+ - [PHP Interfaces](https://github.com/jason-napolitano/PHP-Interfaces)
 
 ## Installation
  - Clone/Download into your directory of choice
