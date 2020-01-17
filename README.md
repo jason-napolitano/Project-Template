@@ -8,6 +8,7 @@ ___
 ## Packages using this template
  - [PHP Exceptions](https://github.com/jason-napolitano/PHP-Exceptions)
  - [PHP Interfaces](https://github.com/jason-napolitano/PHP-Interfaces)
+ - [REST Library](https://github.com/jason-napolitano/PHP-RESTful)
 
 ## Installation
  - Clone/Download into your directory of choice
