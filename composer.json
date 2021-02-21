@@ -1,8 +1,8 @@
 {
-  "name": "username/library",
+  "name": "jason-napolitano/project-template",
   "type": "library",
-  "description": "Library Description",
-  "homepage": "https://github.com/username/library",
+  "description": "A simple template for a Github/Packgist repository. Built to implement Travis-CI, PSR-4 and PHPUnit 8! ",
+  "homepage": "https://github.com/jason-napolitano/Project-Template",
   "license": "MIT",
   "version": "0.0.1",
   "require": {
