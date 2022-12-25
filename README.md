@@ -5,11 +5,8 @@ ___
 
 [![Build Status](https://travis-ci.com/jason-napolitano/PHP-Exceptions.svg?branch=master)](https://travis-ci.com/jason-napolitano/PHP-Exceptions)
 
-## Packages using this template
- - [PHP Exceptions](https://github.com/jason-napolitano/PHP-Exceptions)
-
 ## Installation
- - Clone/Download into your directory of choice
+ - Clone or download into your directory of choice
 
 ## Usage
 Simply open your project up in your favorite editor/IDE and start coding! Once you commit the package to Github and Packagist, this will automatically run your tests that you provide and run the test environment in Travis-CI.
@@ -23,13 +20,13 @@ This repo contains a template for the following directories:
    - Also included are some dummy directories and classes that adhere to PSR-4 to help get you started
 
 And a template for the following files:
- 1. `./LICENSE` - For your projects license information
- 2. `./.gitignore` - For your project to ignore files/directories upon commit
- 3. `./travis.yml` - For Travis-CI integration and scripts
- 4. `./composer.json` - A properly established `composer.json` file for you to fill out
- 5. `./CONTRIBUTING.MD` - A base file for informing contributors on how you like contributions
- 6. `./README.md` - This file. A basic README.MD template file for your README information
- 7. `./phpunit.xml.dist` - A base file to use for PHPUnit >= 8.
+ 1. `LICENSE` - For your projects license information
+ 2. `.gitignore` - For your project to ignore files/directories upon commit
+ 3. `travis.yml` - For Travis-CI integration and scripts
+ 4. `composer.json` - A properly established `composer.json` file for you to fill out
+ 5. `CONTRIBUTING.MD` - A base file for informing contributors on how you like contributions
+ 6. `README.md` - This file. A basic README.MD template file for your README information
+ 7. `phpunit.xml.dist` - A base file to use for PHPUnit >= 8.
 
 
 ## License
