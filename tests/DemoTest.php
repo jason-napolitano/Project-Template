@@ -16,10 +16,10 @@
      */
     class DemoTest extends TestCase
     {
-	    public function testIsTrue(): void
-	    {
-			$this->assertTrue(true);
-		}
+	public function testIsTrue(): void
+	{
+	    $this->assertTrue(true);
+	}
     }
 
 }
