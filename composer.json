@@ -21,6 +21,9 @@
       "Tests\\": "./tests"
     }
   },
+  "config": {
+    "optimize-autoloader": true
+  },
   "scripts": {
       "test": "vendor/bin/phpunit ./tests --testdox"
   }
