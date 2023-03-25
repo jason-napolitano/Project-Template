@@ -6,28 +6,15 @@ ___
 [![Build Status](https://travis-ci.com/jason-napolitano/PHP-Exceptions.svg?branch=master)](https://travis-ci.com/jason-napolitano/PHP-Exceptions)
 
 ## Installation
- - Clone or download into your directory of choice
+```bash
+$ git clone https://github.com/jason-napolitano/Project-Template.git
+$ cd Project-Template
+$ composer update
+```
 
 ## Usage
-Simply open your project up in your favorite editor/IDE and start coding! Once you commit the package to Github and Packagist, this will automatically run your tests that you provide and run the test environment in Travis-CI.
-
- - Don't forget to modify the included `LICENSE`, `.gitignore`, `composer.json`, `travis.yml` and the `phpunit.xml.dist` files for your projects requirements
-
-## Contents
-This repo contains a template for the following directories:
- 1. `./src` - The PSR-4 Source for your projects files
- 2. `./tests` - The directory for the PHPUnit Unit tests
-   - Also included are some dummy directories and classes that adhere to PSR-4 to help get you started
-
-And a template for the following files:
- 1. `LICENSE` - For your projects license information
- 2. `.gitignore` - For your project to ignore files/directories upon commit
- 3. `travis.yml` - For Travis-CI integration and scripts
- 4. `composer.json` - A properly established `composer.json` file for you to fill out
- 5. `CONTRIBUTING.MD` - A base file for informing contributors on how you like contributions
- 6. `README.md` - This file. A basic README.MD template file for your README information
- 7. `phpunit.xml.dist` - A base file to use for PHPUnit >= 8.
-
+To start using this template, simply open your project up in your favorite editor/IDE and start coding! Once you commit the package to Github 
+and Packagist, this will automatically run your tests that you provide and run the test environment in Travis-CI.
 
 ## License
 MIT License
