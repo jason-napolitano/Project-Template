@@ -1,6 +1,6 @@
 # Project Template
 
-> A simple template for a PHP repository. Built for PHP 8.1 using Composer, Travis-CI, PSR-4 and PHPUnit 9!
+> A simple template for a PHP repository. Built for PHP 8 using Composer, Travis-CI, PSR-4 and PHPUnit 9!
 ___
 
 [![Build Status](https://travis-ci.com/jason-napolitano/PHP-Exceptions.svg?branch=master)](https://travis-ci.com/jason-napolitano/PHP-Exceptions)
