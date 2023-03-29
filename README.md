@@ -5,6 +5,10 @@ ___
 
 [![Build Status](https://travis-ci.com/jason-napolitano/PHP-Exceptions.svg?branch=master)](https://travis-ci.com/jason-napolitano/PHP-Exceptions)
 
+## Packages using this template
+ - [Database Factory](https://github.com/DatabaseFactory/framework)
+ - [PHP Exceptions](https://github.com/jason-napolitano/PHP-Exceptions)
+
 ## Installation
 ```bash
 $ git clone https://github.com/jason-napolitano/Project-Template.git
