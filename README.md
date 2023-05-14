@@ -6,7 +6,8 @@ ___
 [![Build Status](https://travis-ci.com/jason-napolitano/PHP-Exceptions.svg?branch=master)](https://travis-ci.com/jason-napolitano/PHP-Exceptions)
 
 ## Packages using this template
- - [Database Factory](https://github.com/DatabaseFactory)
+ - [Database Factory](https://github.com/DatabaseFactory/framework)
+ - [CLI Factory](https://github.com/CLIFactory/framework)
  - [PHP Exceptions](https://github.com/jason-napolitano/PHP-Exceptions)
 
 ## Installation
